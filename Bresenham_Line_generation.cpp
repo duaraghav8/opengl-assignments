@@ -6,6 +6,8 @@
  *
  * This is bare-minimum. This file DOES NOT PORTRAY THE DEVELOPMENT STYLE & CONVENTIONS THAT I FOLLOW IN ACTUAL
  * PRODUCTION SOFTWARE THAT I WRITE. ONLY SATAN CAN JUDGE ME ON THIS.
+ *
+ * COMPILATION: g++ bres.cpp -o bres -lGL -lGLU -lglut
  */
  
 #include <GL/glut.h>
