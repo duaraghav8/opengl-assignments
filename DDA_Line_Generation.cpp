@@ -6,6 +6,8 @@
  *
  * This is bare-minimum. This file DOES NOT PORTRAY THE DEVELOPMENT STYLE & CONVENTIONS THAT I FOLLOW IN ACTUAL
  * PRODUCTION SOFTWARE THAT I WRITE. ONLY SATAN CAN JUDGE ME ON THIS.
+ *
+ * COMPILATION: g++ dda.cpp -o dda -lGL -lGLU -lglut
  */
 
 #include <GL/glut.h>
