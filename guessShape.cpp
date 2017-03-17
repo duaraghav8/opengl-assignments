@@ -1,6 +1,9 @@
 /*
 	Mark 4 points and the program will try to guess whether the points closely resemble a Rectangle / Square or no quadrilateral.
 	COMPILE: g++ guessShape.cpp -o guessShape -lGL -lGLU -lglut
+	
+	USAGE: mark 4 points on screen EITHER CLOCK-WISE OR ANTI-CLOCKWISE. If you mark randomly, program doesn't function correctly.
+	This will be fixed soon.
 */
 
 
